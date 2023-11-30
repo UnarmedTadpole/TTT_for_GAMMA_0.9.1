@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Ammunition
+-->
+
+<string_table>
+
+	<string id="ammo_12.7x55_rifleap">
+		<text>12.7x55 mm STs-130ПТC AP rounds for VSSK</text>
+	</string>
+	<string id="ammo_12.7x55_rifleap_descr">
+		<text> The armour-piercing 12.7x55mm subsonic cartridge is used exclusively in the VKS bullpup sniper rifle. Despite being chambered in the same cartridge, the Ash-12 would not be able to feed or chamber rounds designed for the VKS due to significant length differences in the bullet, which is twice the mass.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR6 (80)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]82</text>
+	</string>
+	<string id="ammo_12.7x55_rifleap_s">
+		<text>12.7x55 VSSK AP</text>
+	</string>
+	
+	<string id="ammo_12.7x55_rifle">
+		<text>12.7x55 mm STs-130ПТ rounds for VSSK</text>
+	</string>
+	<string id="ammo_12.7x55_rifle_descr">
+		<text>The solid brass 12.7x55mm subsonic cartridge is used exclusively in the VKS bullpup sniper rifle for scenarios where armour penetration is secondary to the accuracy of the shot and the damage dealt to the target. Despite being chambered in the same cartridge, the Ash-12 would not be able to feed or chamber rounds designed for the VKS due to significant length differences in the bullet, which is twice the mass.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR3 (40)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]102</text>
+	</string>
+	<string id="ammo_12.7x55_rifle_s">
+		<text>12.7x55 VSSK</text>
+	</string>
+	
+</string_table>

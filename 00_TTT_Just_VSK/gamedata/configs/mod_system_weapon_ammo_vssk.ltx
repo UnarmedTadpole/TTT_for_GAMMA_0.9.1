@@ -1,0 +1,73 @@
+[ammo_12.7x55_rifle]:ammo_base
+GroupControlSection	= spawn_group
+discovery_dependency	=
+$spawn			= "weapons\ammo\ammo_7.62x54_7h1" ; option for Level Editor
+class			= AMMO
+cform                   = skeleton
+visual                  = dynamics\weapons\wpn_ammo\ammo_127x55_fmj.ogf
+description		= ammo_12.7x55_rifle_descr
+$prefetch 		= 64
+
+cost			= 4000
+box_size		= 10
+
+inv_name		= ammo_12.7x55_rifle
+inv_name_short	= ammo_12.7x55_rifle_s
+inv_weight		= 0.46
+
+icons_texture   = ui\TTT\ammo_vssk
+inv_grid_width		= 2
+inv_grid_height		= 1
+inv_grid_x		= 0
+inv_grid_y		= 0
+
+k_disp			= 0.66
+k_hit			= 1.3 ;  2.2
+k_impulse		= 2.8
+k_ap			= 0.04; 0.6
+tracer_color_ID	= 0
+wm_size         = 0.13
+k_air_resistance = 0.75
+k_cam_dispersion          = 1.0
+k_bullet_speed	= 0.8
+
+tier                                     = 4
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[ammo_12.7x55_rifleap]:ammo_12.7x55_rifle
+GroupControlSection	= spawn_group
+discovery_dependency	=
+$spawn			= "weapons\ammo\ammo_7.62x54_7h1" ; option for Level Editor
+class			= AMMO
+cform                   = skeleton
+visual                  = dynamics\weapons\wpn_ammo\ammo_127x55_ap.ogf
+description		= ammo_12.7x55_rifleap_descr
+$prefetch 		= 64
+
+cost			= 7300
+box_size		= 10
+
+inv_name		= ammo_12.7x55_rifleap
+inv_name_short	        = ammo_12.7x55_rifleap_s
+inv_weight		= 0.46
+
+icons_texture   = ui\TTT\ammo_vssk_ap
+inv_grid_width		= 2
+inv_grid_height		= 1
+inv_grid_x		= 0
+inv_grid_y		= 0
+
+k_disp			= 0.66
+k_hit			= 1.4 ;  1.7
+k_impulse		= 2.8
+k_ap			= 0.08 ; 0.6
+tracer_color_ID	= 1
+wm_size			= 0.127
+k_air_resistance = 0.75
+k_cam_dispersion          = 1.0
+k_bullet_speed	= 0.8
+
+tier                                     = 5
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

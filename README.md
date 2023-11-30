@@ -1,2 +1,2 @@
-# TTT_for_GAMMA_0.9.1
+# TadpolesTacTweaks
 Collection of GAMMA modifications to end-tier weaponry

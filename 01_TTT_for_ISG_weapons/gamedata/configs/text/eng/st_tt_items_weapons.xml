@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+
+<!--
+	Weapons
+-->
+<string_table>
+	<string id="st_TTT_wpn_ak74_isg_descr">
+		<text>A custom model, developed on the basis of the AK-74M by the Las Vegas-based American company Rifle Dynamics utilizting advanced synthetic materials derived from artefacts. It is one of the most high-tech weapons in the Zone and is built with an unprecedented level of precision and care. It designed for ISG special units for extremely accurate automatic fire.\n 
+		The ISG issue RD-74N features a gas blowback system derived from the 'spike' artefact, which allows for an incredibly high cycle time with minimal barrel movement\n
+		\n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Rifle Dynamics\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]classified\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Artefact Based Gas System\n
+		%c[d_blue] • %c[0,255,255,255]Canted sight\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		</text>
+	</string>
+	<string id="st_TTT_wpn_akm_isg_descr">
+		<text>A custom model, developed on the basis of the AKM by the Las Vegas-based American company Rifle Dynamics utilizting advanced synthetic materials derived from artefacts. It is one of the most high-tech weapons in the Zone and is built with an unprecedented level of precision and care. It is often used by ISG special units as a primary midrange armanent.\n
+		The ISG issue RD-M features a projectile boosting system based on the 'goldfish' class of artefact, that increased the mass of the project after it has already been accelerated\n
+		\n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Rifle Dynamics\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]classified\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Artefact Based Projectile Boost System\n
+		%c[d_blue] • %c[0,255,255,255]Compensator\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		</text>
+	</string>
+	<string id="st_TTT_wpn_vintorez_isg_descr">
+		<text>A custom model, developed on the basis of the VSS Vintorez. It is one of the most high-tech weapons in the Zone and is built with an unprecedented level of precision and care. It is often used by ISG special units.\n 
+		The ISG issue of the RD-39 has been the subject of international criticsm due to it's high similarity to a design based on 'gravi' aretfacts proposed by N. A. Lebedev as part of the development of "item 62."\n
+		\n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Rifle Dynamics\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2007\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Artefact-based projectile impact boost\n
+		%c[d_blue] • %c[0,255,255,255]Canted sight\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This model comes with a special mechanism that allows for two round bursts.\n
+		</text>
+	</string>
+	<string id="st_TTT_wpn_saiga12s_isg_descr">
+		<text>A model developed by Kalashnikov USA on the basis of the Komrad 12 semi-automatic rifle for hunting and protecting members of the ISG research teams from mutants. The weapon has both a dovetail mount and a Picatinny bar for use with various types of sights. This model has a new type of trigger mechanism which allows for two round bursts.\n
+		Not originally intended to be part of ISG's equipment, the saiga12s was hastily comissioned following mission data that highlighted the extreme ammo expendature on local wildlife.\n
+		\n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States, Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Kalashnikov Concern\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1997\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Foregrip\n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This model comes with a special mechanism that allows for two round bursts.\n
+		</text>
+	</string>
+	<string id="st_TTT_wpn_ak74u_m1_isg_descr">
+			<text>A custom model, developed on the basis of the RD-74U by the Las Vegas-based American company Rifle Dynamics. It is one of the most high-tech weapons in the Zone and is built with an unprecedented level of precision and care. It is often used by ISG special units.\n
+		This RD74u modification offers greatly increased accuracy and handling at the cost of a lower fire rate.\n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Rifle Dynamics\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2007\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Artefact-based recoil spring\n
+		%c[d_blue] • %c[0,255,255,255]Artefact derived barrel coating\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		</text>
+	</string>
+	<string id="st_TTT_wpn_ak74u_isg_descr">
+			<text>A custom model, developed on the basis of the AKSU by the Las Vegas-based American company Rifle Dynamics. It is one of the most high-tech weapons in the Zone and is built with an unprecedented level of precision and care. It is often used by ISG special units.\n
+		The RD-74u is one of the earliest attempts to integrate artefact and firearms technology, boasting an absolutely insane fire rate for a rile calbier weapon. Often issued as a holdout weapon for ISG marksman or deep cover units.\n
+		\n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Artefact-based recoil spring\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Rifle Dynamics\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2007\n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Artefact-based recoil spring\n
+		%c[d_blue] • %c[0,255,255,255]Artefact derived barrel coating\n
+		</text>
+	</string>
+	<string id="st_TTT_wpn_ak5c_isg_descr">
+		<text>Based on the Ak 5 or Automatkarbin 5 ("automatic carbine 5"), the Swedish version of the FN FNC assault rifle, the ISG issue AK5C was engineered for extreme durability. Designed to function flawlessly even if immersed in highly corrosive anomalous materials or rapdily heated and cooled, care was taken to even ensure the rifle was non-conductive.\n 
+		A breakthrough was made when american scientists working on temporal anomalies discovered a way to "fix" objects in time, making them functionally immutable.\n
+		\n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Sweden\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Sweden\n
+		%c[d_cyan] • %c[0,255,255,255]Origonal Manufacturer: %c[ui_gray_1]Carl Gustafs Stads Gevarsfaktori\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1986\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Nonreactive, extremely durable anomalous construction.\n
+		%c[d_blue] • %c[0,255,255,255]Laser sight\n
+		</text>
+	</string>
+</string_table>
