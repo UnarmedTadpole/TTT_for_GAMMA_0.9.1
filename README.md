@@ -6,6 +6,7 @@ VSSK - Separated Ammo from ASH-12 and added new crafting recipe. Improved ballis
 
 ISG Weapons;
 Reworked existing GAMMA ISG issued weaponry (Anything described in-game as designed/issued to ISG) to be more "futuristic" and more plausible as over-engineered low-production number platforms designed to help ISG try to wreste back control of the zone.
+    
     AKSU - Specialization CQB: Incredible fire rate and high magazine capacity, but very poor accuracy
     
     AK74 - Specialization Full Auto: Virutally zero recoil and high accuracy.
