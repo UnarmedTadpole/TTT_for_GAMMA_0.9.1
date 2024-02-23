@@ -1,6 +1,8 @@
 # TadpolesTacTweaks
 Collection of GAMMA modifications to end-tier weaponry
 
+Currently out of date, feel free to fork and update, I will credit if you do.
+
 Changes:
 VSSK - Separated Ammo from ASH-12 and added new crafting recipe. Improved ballistic performance.
 
